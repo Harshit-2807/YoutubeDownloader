@@ -3,3 +3,10 @@
 
 # Ignore all .mkv files
 *.mkv
+
+# Ignore bin and obj directories
+bin/
+obj/
+
+# Ignore .vs folder
+.vs/
